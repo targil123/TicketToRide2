@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=c\ num\ loc\ mtn
+comment0.target=Options(Color,\ int,\ int,\ int)
+comment0.text=\n\ sets\ various\ parameters\ for\ a\ card\n\ \n\ @param\ \ \ \ \ c\ \ \ \ \ color\ of\ the\ card\n\ @param\ \ \ \ \ num\ \ \ \ \ sets\ the\ number\ of\ colored\ tiles\n\ @param\ \ \ \ \ loc\ \ \ \ \ sets\ the\ number\ of\ locomotive\ cards\n\ @param\ \ \ \ \ mtn\ \ \ \ \ determines\ whether\ it\ is\ a\ moutain\ card\ or\ not\n
+comment1.params=
+comment1.target=Color\ getColor()
+comment1.text=\n\ returns\ the\ color\ of\ the\ card\n\ \n\ @return\ \ \ \ \ color\ \ \ \ \ the\ color\ of\ the\ card\n
+comment2.params=
+comment2.target=int\ getNumColor()
+comment2.text=\n\ returns\ the\ number\ of\ colored\ tiles\n\ \n\ @return\ \ \ \ \ numColor\ \ \ \ \ number\ associated\ with\ color\n
+comment3.params=
+comment3.target=int\ getLoco()
+comment3.text=\n\ returns\ the\ number\ of\ locomotive\ cards\n\ \n\ @return\ \ \ \ \ numLoc\ \ \ \ \ the\ number\ of\ locomotive\ cards\n
+comment4.params=
+comment4.target=int\ getMountain()
+comment4.text=\n\ returns\ the\ number\ of\ mountain\ cards\n\ \n\ @return\ \ \ \ \ numMountain\ \ \ \ \ returns\ the\ number\ of\ moutain\ cards\n
+numComments=5

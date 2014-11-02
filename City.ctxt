@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=cityName
+comment0.target=City(java.lang.String)
+comment0.text=\n\ creates\ a\ city\ object\ with\ set\ coordinates\n\ \n\ @param\ \ \ \ \ cityName\ \ \ \ \ name\ of\ the\ city\n
+comment1.params=xCoord\ yCoord\ cityName
+comment1.target=City(int,\ int,\ java.lang.String)
+comment1.text=\n\ creates\ a\ city\ object\n\ \n\ @param\ \ \ \ \ xCoord\ \ \ \ \ x\ coordinate\ of\ city\n\ @param\ \ \ \ \ yCoord\ \ \ \ \ y\ coordinate\ of\ city\n\ @param\ \ \ \ \ cityName\ \ \ \ \ name\ of\ city\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ returns\ the\ name\ of\ the\ city\n\ \n\ @return\ \ \ \ \ name\ \ \ \ \ string\ city\ name\n
+comment3.params=
+comment3.target=int\ getX()
+comment3.text=\n\ returns\ x\ coordinate\ of\ city\n\ \n\ @return\ \ \ \ \ x\ \ \ \ \ x\ coordinate\n
+comment4.params=
+comment4.target=int\ getY()
+comment4.text=\n\ returns\ y\ coordinate\ of\ city\n\ \n\ @return\ \ \ \ \ y\ \ \ \ \ y\ coordinate\n
+comment5.params=c
+comment5.target=boolean\ equals(City)
+comment5.text=\n\ determines\ if\ two\ cities\ are\ the\ same\ city\n\ \n\ @return\ \ \ \ \ boolean\ \ \ \ \ true\ if\ cities\ are\ the\ same,\ else\ false\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=cityNode(City)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ cityNode\n\ \n\ @param\ c\ City\ to\ add\n
+comment1.params=c\ next
+comment1.target=cityNode(City,\ cityNode)
+comment1.text=\n\ Constructor\ for\ CityNode\n\ \n\ @param\ c\ City\ to\ add\ \n\ @param\ cityNode\ refernce\ to\ next\ node\ in\ list\n
+comment2.params=
+comment2.target=City\ getCity()
+comment2.text=\n\ returns\ a\ city\ refernce\ in\ a\ node\n\ \n\ @return\ city\ City\ object\ the\ node\ refers\ to\n
+comment3.params=
+comment3.target=cityNode\ getNext()
+comment3.text=\n\ returns\ refernce\ to\ next\ cityNode\ in\ the\ list\n\ \n\ @return\ next\ refernce\ to\ nextCity\ node\n
+numComments=4

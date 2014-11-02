@@ -1,0 +1,75 @@
+Mecca : 67-395
+
+Shiraz : 203-323
+
+Karachi : 287-351
+
+Agra : 372-336
+Bombay : 346-420
+
+Colombo : 410-549
+
+Calcutta : 465-365
+
+Kathmandu : 444-320
+
+Mandalay : 525-375
+
+Hanoi : 614-373
+
+Rangoon : 526-435
+
+Bangkok : 568-466
+
+Saigon : 611-498
+
+Singapore : 592-585
+
+Macau : 667-384
+
+Taipei : 747-356
+
+Baghdad : 111-278
+
+Ankara : 18-199
+
+Tbilisi : 100-179
+
+Astrakhan : 124-129
+
+Moscow : 54-26
+
+Perm : 189-21
+
+Omsk : 316-22
+
+Samarkand : 290-195
+
+Tehran : 161-244
+
+Rawalpindi : 338-274
+
+Dihua : 460-152
+
+Krasnoyarsk : 450-26
+
+Irkutsk : 574-31
+
+Ulan Bator : 601-108
+
+Chita : 666-44
+
+Khabarovsk : 851-65
+
+Vladivostok : 830-156
+
+Seoul : 792-245
+
+Kobe : 884-242
+
+Shanghai : 738-284
+
+Xi'an : 621-254
+
+Lhasa : 492-286
+Peking : 693-197

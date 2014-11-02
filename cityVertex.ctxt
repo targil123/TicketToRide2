@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=cityVertex(City)
+comment0.text=\n\ Constructor\ for\ City\ object\n\ \n\ @param\ c\ City\ to\ create\ vertex\ at\n
+comment1.params=c
+comment1.target=void\ setHead(cityNode)
+comment1.text=\n\ sets\ the\ head\ of\ the\ list\ to\ the\ gievn\ node\n\ \n\ @param\ c\ cityNode\ to\ make\ the\ head\n\ \n
+comment2.params=b
+comment2.target=void\ setVisited(boolean)
+comment2.text=\n\ sets\ vertex\ to\ visited\ on\ unvisited\n\ @param\ b\ booelan\ of\ how\ to\ set\ vertex\n\ \n
+comment3.params=
+comment3.target=City\ getCity()
+comment3.text=\n\ gets\ the\ city\ object\ of\ a\ given\ vertex\n\ \n\ @return\ city\ City\ object\n
+comment4.params=
+comment4.target=cityNode\ getHead()
+comment4.text=\n\ gets\ the\ head\ of\ the\ list\n\ \n\ @return\ head\ cityNode\ object\ \n
+comment5.params=
+comment5.target=boolean\ getVisited()
+comment5.text=\n\ returns\ whether\ or\ not\ a\ vertex\ is\ visited\n\ \n\ @return\ boolean\ true\ it\ it\ is\ visited,\ false\ otherwise\n
+numComments=6

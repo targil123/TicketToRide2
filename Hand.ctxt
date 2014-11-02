@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hand()
+comment0.text=\n\ creates\ a\ hand\ object\n
+comment1.params=c
+comment1.target=void\ add(Card)
+comment1.text=\n\ adds\ a\ card\ to\ the\ hand\ object\n\ \n\ @param\ \ \ \ \ c\ \ \ \ \ card\ to\ add\n
+comment2.params=c\ length
+comment2.target=boolean\ isPossible(Color,\ int)
+comment2.text=\n\ returns\ if\ the\ hand\ has\ enough\ cards\ to\ fill\ the\ edge.\n\ \n\ @param\ \ \ \ \ \ c\ \ \ \ \ \ color\ of\ edge\n\ @param\ \ \ \ \ \ length\ \ \ \ \ \ length\ of\ edge\n\ \n\ @return\ \ \ \ \ boolean\ \ \ \ \ \ true\ if\ its\ a\ possible\ edge\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\ if\ it\ isnt\n
+numComments=3

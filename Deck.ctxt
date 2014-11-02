@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\n\ creates\ a\ deck\ object\ for\ train\ cards\n
+comment1.params=
+comment1.target=Card\ deal()
+comment1.text=\n\ returns\ a\ random\ card\ off\ the\ top\ of\ the\ new\ deck\n\ \n\ @return\ \ \ \ \ c\ \ \ \ \ \ random\ card\ from\ the\ deck\n
+comment2.params=c
+comment2.target=void\ add(Card)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=java.util.ArrayList\ getCards()
+numComments=5

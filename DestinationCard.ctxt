@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=one\ two\ points
+comment0.target=DestinationCard(City,\ City,\ int)
+comment0.text=\n\ creates\ a\ destination\ card\ object\n\ \n\ @param\ \ \ \ \ one\ \ \ \ \ first\ city\n\ @param\ \ \ \ \ two\ \ \ \ \ second\ city\n\ @param\ \ \ \ \ points\ \ \ \ \ how\ many\ points\ the\ connection\ is\ worth\n
+comment1.params=
+comment1.target=City\ getActualCity1()
+comment1.text=\n\ returns\ the\ first\ city\ object\n\ \n\ @return\ \ \ \ \ city1\ \ \ \ \ returns\ city\ object\n
+comment2.params=
+comment2.target=City\ getActualCity2()
+comment2.text=\n\ returns\ the\ second\ city\ object\n\ \n\ @return\ \ \ \ \ city2\ \ \ \ \ \ returns\ city\ object\n
+comment3.params=
+comment3.target=java.lang.String\ getCity1()
+comment3.text=\n\ returns\ the\ name\ of\ the\ first\ city\n\ \n\ @return\ \ \ \ \ \ city1.getName()\ \ \ \ \ name\ of\ city\ 1\n
+comment4.params=
+comment4.target=java.lang.String\ getCity2()
+comment4.text=\n\ returns\ the\ name\ of\ the\ second\ city\n\ \n\ @return\ \ \ \ \ city2.getName()\ \ \ \ \ name\ of\ city\ 2\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\n\ returns\ the\ worth\ of\ the\ connection\ between\ cities\n\ \n\ @return\ \ \ \ \ numPoints\ \ \ \ \ int\ worth\ of\ the\ connection\n
+numComments=6

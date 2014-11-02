@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=myEdge\ myCities
+comment0.target=Graph(java.util.ArrayList,\ java.util.ArrayList)
+comment0.text=\n\ Constructor\ for\ the\ Graph\ Class\ objects\n\ \n\ @param\ myEdge\ ArrayLisy\ of\ edges\n\ @param\ myCities\ ArrayList\ of\ cities\n
+comment1.params=
+comment1.target=int\ largest()
+comment1.text=\n\ returns\ largest\ number\ of\ \n\ connected\ cities\ in\ a\ graph\n\ \n\ @return\ large\ int\ of\ largest\ number\ \n\ \ \ \ \ \ \ \ \ \ of\ connections\n
+comment2.params=
+comment2.target=void\ reset()
+comment2.text=\n\ resets\ vertices[]\ to\ all\ false\n\ \n
+comment3.params=v
+comment3.target=int\ DFS(cityVertex)
+comment3.text=\n\ runs\ a\ depth\ first\ search\ on\ a\ vertex\n\ to\ find\ conected\ compnets\ of\ a\ graph\n\ \n\ @param\ v\ cityVertex\ to\ start\ search\n
+comment4.params=c1\ c2\ cityArr
+comment4.target=boolean\ isConnected(City,\ City,\ java.util.ArrayList)
+comment4.text=\n\ checks\ to\ make\ sure\ that\ two\ cities\ are\ connecter\n\ \n\ @param\ c1\ First\ City\ to\ check\n\ @param\ c2\ Second\ City\ to\ check\n\ @param\ cityArr\ array\ of\ all\ Cities\n\ \n\ @return\ boolean\ true\ is\ the\ cities\ are\ connected,\ \n\ \ \ \ \ \ \ \ \ \ false\ otherwise\n
+comment5.params=city1\ city2
+comment5.target=boolean\ isConnected(City,\ City)
+comment5.text=\n\ checks\ to\ see\ if\ two\ cities\ are\ connected\n\ \n\ @param\ city1\ first\ City\ to\ check\n\ @param\ city2\ second\ City\ to\ check\n\ \n\ \ @return\ boolean\ true\ is\ the\ cities\ are\ connected,\ \n\ \ \ \ \ \ \ \ \ \ false\ otherwise\n
+numComments=6

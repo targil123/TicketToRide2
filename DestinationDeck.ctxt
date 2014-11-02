@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DestinationDeck()
+comment0.text=\n\ The\ following\ code\ creates\ a\ destination\ card\ object\ by\n\ reading\ in\ the\ information\ from\ Destinations.txt\n
+comment1.params=
+comment1.target=DestinationCard\ deal()
+comment1.text=\n\ the\ following\ method\ chooses\ a\ random\ destination\n\ card\ from\ the\ deck\n\ \n\ @return\ \ \ \ \ c\ \ \ \ \ random\ destination\ card\n
+comment2.params=
+comment2.target=DestinationCard\ dealLong()
+comment2.text=\n\ this\ method\ returns\ a\ random\ long\ destination\ card\n\ for\ the\ user\n\ \n\ @return\ \ \ \ \ c\ \ \ \ \ returns\ a\ long\ distance\ destination\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ card\n
+numComments=3

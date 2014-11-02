@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=Card(Color)
+comment0.text=\n\ this\ class\ creates\ a\ card\ object\ of\ a\ defined\ color\n\ \n\ @param\ \ \ \ \ c\ \ \ \ \ Color\ of\ the\ card\n
+comment1.params=
+comment1.target=Color\ getColor()
+comment1.text=\n\ returns\ the\ color\ of\ the\ card\n\ \n\ @return\ \ \ \ \ color\ \ \ \ \ the\ color\ of\ the\ card\n
+numComments=2

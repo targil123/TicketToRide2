@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EdgeList()
+comment0.text=\n\ Constructs\ EdgeList\ object\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getEdges()
+comment1.text=\n\ Returns\ ArrayList\ of\ edges\n\ \n\ @returns\ edgeList\ ArrayList\ of\ edges\n
+numComments=2

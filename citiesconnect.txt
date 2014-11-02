@@ -1,0 +1,106 @@
+Moscow:Perm - 73 , 168 - 18 , 11
+Moscow:Perm - 75 , 168 - 33 , 26
+Perm:Omsk - 204 , 299 - 13 , 15
+Perm:Omsk - 206 , 299 - 26 , 27
+Omsk:Krasnoyarsk - 336 , 430 - 14 , 17
+Omsk:Krasnoyarsk - 336 , 431 - 28 , 31
+Krasnoyarsk:Irkutsk - 466 , 560 - 18 , 24
+Krasnoyarsk:Irkutsk - 464 , 558 - 30 , 37
+Irkutsk:Chita - 589 , 620 , 651 - 27 , 39 , 38
+Irkutsk:Chita - 587 , 618 , 649 - 41 , 50 , 50
+Chita:Khabarovsk - 679 , 727 , 758 , 794 , 838 - 40 , 34 , 34 , 38 , 58
+Khabarovsk:Vladivostok - 865 , 858 , 840 - 85 , 116 , 114
+Khabarovsk:Vladivostok - 852 , 845 , 828 - 80 , 112 , 140
+Vladivostok:Seoul - 828 , 826 , 802 - 169 , 203 , 229
+Khabarovsk:Peking - 834 , 709 - 74 , 177
+Peking:Seoul - 705 , 752 , 787 - 194 , 195 , 231
+Seoul:Kobe - 804 , 834 , 873 - 245 , 258 , 238
+Kobe:Shanghai - 870 , 829 , 795 , 748 - 249 , 275 , 283 , 286
+Shanghai:Peking - 736 , 715 , 704 - 266 , 241 , 209
+Shanghai:Peking - 725 , 704 , 693 - 274 , 247 , 215
+Peking:Ulan Bator - 692 , 656 , 618 - 175 , 137 , 112
+Perking:Ulan Bator - 682 , 647 , 610 - 185 , 151 , 120
+Ulan Bator:Chita - 611 , 639 , 660 - 100 , 82 , 56
+Ulan Bator:Irkutsk - 586 , 562 , 572 - 101 , 79 , 44
+Peking:Xi'an - 675 , 627 - 199 , 238
+Peking:Xi'an - 682 , 633 - 209 , 248
+Peking:Dihua - 664 , 475 - 190 , 151
+Dihua:Krasnoyarsk - 454 , 445 , 446 - 138 , 88 , 41
+Dihua:Omsk - 440 , 396 , 369 , 347 , 326 - 148 , 132 , 110 , 83 , 41
+Omsk:Samarkand - 310 , 296 - 44 , 175
+Samarkand:Dihua - 306 , 353 , 386 , 419 , 451 - 194 , 211 , 212 , 199 , 164
+Samarkand:Dihua - 308 , 354 , 389 , 420 , 456 - 210 , 225 , 224 , 212 , 181
+Dihua:Xi'an - 471 , 518 , 550 , 580 , 615 - 166 , 177 , 189 , 204 , 235
+Kobe:Taipei - 879 , 862 , 837 , 809 , 761 - 258 , 303 , 329 , 345 , 350
+Kobe:Taipei - 889 , 869 , 848 , 816 , 767 - 269 , 316 , 343 , 353 , 361
+Taipei:Shanghai - 751 , 768 , 739 - 343 , 320 , 294
+Taipei:Macau - 737 , 713 , 681 - 366 , 388 , 388
+Macau:Shanghai - 676 , 709 , 725 - 374 , 341 , 291
+Xi'an:Macau - 643 , 665 , 667 - 260 , 308 , 353
+Xi'an:Macau - 631 , 653 , 662 - 266 , 310 , 358
+Hanoi:Macau - 655 , 625 - 371 , 364
+Hanoi:Macau - 653 , 624 - 382 , 377
+Hanoi:Saigon - 625 , 637 , 630 - 389 , 436 , 485
+Hanoi:Saigon - 613 , 625 , 614 - 390 , 436 , 486
+Saigon:Singapore - 609 , 609 , 597 - 509 , 541 , 575
+
+Astrakhan:Tbilisi - 121 , 109 - 141 , 172
+Astrakhan:Tbilisi - 111 , 97 - 138 , 168
+
+Singapore:Bangkok - 584 , 561 , 560 - 575 , 528 , 480
+Singapore:Bangkok - 569 , 546 , 546 - 577 , 531 , 483
+Bangkok:Saigon - 573 , 596 - 480 , 495
+Bangkok:Saigon - 580 , 603 - 468 , 486
+Bangkok:Rangoon - 531 , 554 - 446 , 467
+Bangkok:Rangoon - 537 , 561 - 435 , 454
+Bangkok:Hanoi - 575 , 600 - 452 , 393
+Rangoon:Mandalay - 528 , 527 - 422 , 391
+Mandalay:Hanoi - 538 , 599 - 378 , 376
+Mandalay:Xi'an - 535 , 578 , 598 , 615 - 364 , 343 , 315 , 268
+Xi'an:Lhasa - 609 , 561 , 529 , 497 - 247 , 229 , 237 , 271
+Lhasa:Mandalay - 503 , 525 , 525 - 295 , 320 , 354
+Calcutta:Mandalay - 486 , 513 - 357 , 366
+
+
+Calcutta:Mandalay - 482 , 514 - 370 , 378
+Calcutta:Rangoon - 474 , 491 , 518 - 379 , 408 , 427
+Calcutta:Rangoon - 464 , 484 , 510 - 389 , 416 , 437
+Calcutta:Colombo - 453 , 418 , 403 , 397 , 410 - 385 , 420 , 455 , 486 , 537
+Colombo:Bombay - 397 , 360 , 346 , 342 - 545 , 513 , 483 , 433
+Colombo:Bombay - 384 , 347 , 332 , 329 - 551 , 519 , 487 , 435
+Bombay:Calcutta - 360 , 446 - 421 , 374
+Bombay:Calcutta - 355 , 440 - 408 , 363
+Calcutta:Agra - 447 , 417 , 386 - 351 , 339 , 339
+
+
+Agra:Bombay - 365 , 349 , 344 - 344 , 374 , 408
+Tbilisi:Ankara - 89 , 59 , 28 - 183 , 194 , 195
+Ankara:Baghdad - 27 , 63 , 105 - 206 , 243 , 269
+Ankara:Baghdad - 20 , 52 , 96 - 216 , 251 , 279
+Kathmandu:Mandalay - 514 , 489 , 456 - 353 , 329 , 329
+Kathmandu:Agra - 428 , 393 , 381 - 321 , 303 , 328
+Kathmandu:Rawalpindi - 438 , 397 , 349 - 308 , 278 , 269
+Rawalpindi:Agra - 346 , 381 , 371 - 283 , 300 , 322
+Agra:Karachi - 358 , 299 - 334 , 349
+Karachi:Bombay - 296 , 310 , 334 - 362 , 392 , 415
+Bombay:Karachi - 324 , 298 , 284 - 424 , 399 , 369
+Karachi:Rawalpindi - 292 , 329 - 337 , 284
+Rawalpindi:Samarkand - 329 , 306 , 292 - 268 , 242 , 211
+Shiraz:Karachi - 275 , 244 , 218 - 345 , 338 , 321
+Shiraz:Karachi - 269 , 238 , 212 - 359 , 348 , 331
+Karachi:Samarkand - 282 , 262 , 262 , 280 - 336 , 289 , 254 , 205
+Samarkand:Astrakhan - 279 , 247 , 217 , 185 , 134 - 182 , 145 , 126 , 118 , 126
+Astrakhan:Perm - 125 , 149 , 180 - 116 , 73 , 34
+Astrakhan:Moscow - 113 , 80 , 57 - 119 , 81 , 39
+Astrakhan:Moscow - 47 , 71 , 103 - 47 , 91 , 128
+Astrakhan:Tehran - 131 , 160 , 165 - 138 , 180 , 231
+Tehran:Samarkand - 178 , 221 , 268 - 234 , 210 , 195
+Tehran:Shiraz - 172 , 203 - 252 , 309
+Tehran:Shiraz - 160 , 193 - 258 , 316
+Shiraz:Mecca - 192 , 158 , 133 , 86 - 332 , 364 , 385 , 399
+Mecca:Baghdad - 81 , 91 , 111 - 388 , 339 , 294
+Mecca:Baghdad - 68 , 79 , 100 - 384 , 334 , 288
+Baghdad:Tehran - 120 , 148 - 279 , 263
+Baghdad:Tehran - 116 , 143 - 265 , 253
+Tehran:Tbilisi - 150 , 109 - 233 , 183
+Tehran:Tbilisi - 99 , 141 - 191 , 242
